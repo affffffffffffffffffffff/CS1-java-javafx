@@ -4,7 +4,7 @@ Hosts all the javafx projects for 4th Period Advanced CS1 2022-2023 with Armand 
 * Code provided in good faith. 
 * Any copying for cheating/plagiarism reasons is expressly prohibited.
 
-# Cycles
+## Cycles
 ### Cycle 1: 
 22 August 2022 - 30 September 2022<br>
 ### Cycle 2: 
